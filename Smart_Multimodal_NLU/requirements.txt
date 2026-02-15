@@ -1,0 +1,7 @@
+transformers
+torch
+streamlit
+sounddevice
+scipy
+numpy
+pandas
